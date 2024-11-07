@@ -62,7 +62,7 @@ const Contact = () => {
                     id="from_name"
                     className="block w-full px-4 py-3 rounded-lg border border-gray-200 focus:ring-2 focus:ring-indigo-500 focus:border-transparent transition-all duration-200"
                     required
-                    placeholder="John Doe"
+                    placeholder="John Wick"
                   />
                 </div>
               </div>
@@ -78,7 +78,7 @@ const Contact = () => {
                     id="reply_to"
                     className="block w-full px-4 py-3 rounded-lg border border-gray-200 focus:ring-2 focus:ring-indigo-500 focus:border-transparent transition-all duration-200"
                     required
-                    placeholder="john@example.com"
+                    placeholder="johnwick@example.com"
                   />
                   <Mail className="absolute right-3 top-3 h-5 w-5 text-gray-400" />
                 </div>
