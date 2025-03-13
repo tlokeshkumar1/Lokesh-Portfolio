@@ -20,6 +20,14 @@ const Projects = () => {
       demo: 'https://movie-bookings.vercel.app/'
     },
     {
+      title: 'QA Bot with RAG Model',
+      description: 'Advanced question-answering system using RAG model and Pinecone for embeddings.',
+      image: 'https://images.unsplash.com/photo-1676299081847-824916de030a?auto=format&fit=crop&q=80&w=800',
+      tech: ['Python', 'Pinecone', 'Transformers', 'FastAPI'],
+      github: 'https://github.com/tlokeshkumar1/QA-Bot-with-RAG-Model',
+      demo: '#'
+    },
+    {
       title: 'Bank Customer Churn Prediction',
       description: 'ML model to predict customer churn using advanced algorithms and data analysis.',
       image: 'https://images.unsplash.com/photo-1601597111158-2fceff292cdc?auto=format&fit=crop&q=80&w=800',
@@ -49,14 +57,6 @@ const Projects = () => {
       image: 'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&q=80&w=800',
       tech: ['React.js', 'Redux', 'Node.js', 'MongoDB'],
       github: '#',
-      demo: '#'
-    },
-    {
-      title: 'QA Bot with RAG Model',
-      description: 'Advanced question-answering system using RAG model and Pinecone for embeddings.',
-      image: 'https://images.unsplash.com/photo-1676299081847-824916de030a?auto=format&fit=crop&q=80&w=800',
-      tech: ['Python', 'Pinecone', 'Transformers', 'FastAPI'],
-      github: 'https://github.com/tlokeshkumar1/QA-Bot-with-RAG-Model',
       demo: '#'
     }
   ];
