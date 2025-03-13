@@ -4,6 +4,11 @@ import { Code2, Brain, Sparkles } from 'lucide-react';
 const About = () => {
   const expertise = [
     {
+      icon: <Code2 className="w-6 h-6" />,
+      title: 'Web Development',
+      description: 'Creating responsive and scalable web applications using modern frameworks and technologies.'
+    },
+    {
       icon: <Brain className="w-6 h-6" />,
       title: 'Machine Learning',
       description: 'Developing intelligent solutions using cutting-edge ML algorithms and deep learning models.'
@@ -12,11 +17,6 @@ const About = () => {
       icon: <Sparkles className="w-6 h-6" />,
       title: 'Gen AI',
       description: 'Creating innovative AI solutions using large language models and generative AI technologies.'
-    },
-    {
-      icon: <Code2 className="w-6 h-6" />,
-      title: 'Web Development',
-      description: 'Creating responsive and scalable web applications using modern frameworks and technologies.'
     }
   ];
 
