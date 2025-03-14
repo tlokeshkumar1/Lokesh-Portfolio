@@ -14,7 +14,7 @@ const Footer = () => {
           <div className="flex space-x-6">
             <a
               href="https://github.com/tlokeshkumar1/"
-              target="_blank"
+              target="https://github.com/tlokeshkumar1/"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-colors duration-200"
             >
@@ -22,7 +22,7 @@ const Footer = () => {
             </a>
             <a
               href="https://www.linkedin.com/in/lokesh-kumar-telagamalla-18b986221/"
-              target="_blank"
+              target="https://www.linkedin.com/in/lokesh-kumar-telagamalla-18b986221/"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-colors duration-200"
             >
@@ -30,7 +30,7 @@ const Footer = () => {
             </a>
             <a
               href="https://x.com/Lokesh_535"
-              target="_blank"
+              target="https://x.com/Lokesh_535"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-colors duration-200"
             >
@@ -38,7 +38,7 @@ const Footer = () => {
             </a>
             <a
               href="https://www.hackerrank.com/profile/lokeshkumartela1"
-              target="_blank"
+              target="https://www.hackerrank.com/profile/lokeshkumartela1"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-colors duration-200"
             >
