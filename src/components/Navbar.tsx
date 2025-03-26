@@ -38,19 +38,19 @@ const Navbar = () => {
             ))}
             <div className="flex items-center space-x-4">
               <ThemeToggle />
-              <a href="https://github.com" target="_blank" rel="noopener noreferrer" 
+              <a href="https://github.com/tlokeshkumar1/" target="_blank" rel="noopener noreferrer" 
                  className="text-gray-700 dark:text-gray-300 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors duration-200">
                 <Github className="w-5 h-5" />
               </a>
-              <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer"
+              <a href="https://www.linkedin.com/in/lokesh-kumar-telagamalla-18b986221/" target="_blank" rel="noopener noreferrer"
                  className="text-gray-700 dark:text-gray-300 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors duration-200">
                 <Linkedin className="w-5 h-5" />
               </a>
-              <a href="https://twitter.com" target="_blank" rel="noopener noreferrer"
+              <a href="https://x.com/Lokesh_535" target="_blank" rel="noopener noreferrer"
                  className="text-gray-700 dark:text-gray-300 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors duration-200">
                 <Twitter className="w-5 h-5" />
               </a>
-              <a href="https://hackerrank.com" target="_blank" rel="noopener noreferrer"
+              <a href="https://www.hackerrank.com/profile/lokeshkumartela1" target="_blank" rel="noopener noreferrer"
                  className="text-gray-700 dark:text-gray-300 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors duration-200">
                 <Award className="w-5 h-5" />
               </a>
