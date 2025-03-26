@@ -4,7 +4,7 @@ import { ArrowRight } from 'lucide-react';
 const Hero = () => {
   return (
     <section className="relative h-screen flex items-center justify-center overflow-hidden" style={{
-      background: 'linear-gradient(to right, #4ac29a, #bdfff3)'
+      background: 'linear-gradient(to right, #e8cbc0, #636fa4)'
     }}>
       <div className="absolute inset-0 bg-[linear-gradient(to_right,#80808012_1px,transparent_1px),linear-gradient(to_bottom,#80808012_1px,transparent_1px)] bg-[size:24px_24px]"></div>
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-32 text-center">
