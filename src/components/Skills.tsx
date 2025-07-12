@@ -8,15 +8,15 @@ const Skills = () => {
     },
     {
       title: 'Frameworks & Libraries',
-      skills: ['React.js', 'Node.js']
+      skills: ['Flask','Django','Fast API','Springboot','React.js', 'Node.js',]
     },
     {
-      title: 'Tools & Technologies',
-      skills: ['Git', 'Version Control']
+      title: 'Tools Known',
+      skills: ['Git', 'Version Control', 'Docker', 'AWS Cloud','Postman']
     },
     {
-      title: 'Machine Learning',
-      skills: ['TensorFlow', 'PyTorch', 'Scikit-learn', 'NLP']
+      title: 'Tecknologies',
+      skills: ['machine learning', 'blockchain', 'web development', 'AI', 'RAG', 'LLM', 'LangChain', 'Vector DBs', 'HuggingFace API']
     }
   ];
 
