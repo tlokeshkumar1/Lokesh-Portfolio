@@ -16,7 +16,7 @@ const Skills = () => {
     },
     {
       title: 'Tecknologies',
-      skills: ['machine learning', 'blockchain', 'web development', 'AI', 'RAG', 'LLM', 'LangChain', 'Vector DBs', 'HuggingFace API']
+      skills: ['machine learning', 'web development', 'AI', 'RAG', 'LLM', 'LangChain', 'Vector DBs', 'HuggingFace API']
     }
   ];
 
