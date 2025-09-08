@@ -4,12 +4,52 @@ import { Github, ExternalLink } from 'lucide-react';
 const Projects = () => {
   const projects = [
     {
+      title: 'Smart Helpdesk with Agentic Triage',
+      description: 'Developed Smart Helpdesk with Agentic Triage, an AI-powered support system that classifies tickets, retrieves knowledge base articles, and generates draft replies using LLMs to streamline customer support workflows.',
+      image: 'https://www.easyproject.com/EasyProject/media/site-images/news/how-service-ai-transforms-helpdesk-operations-body.png?format=webp&quality=80',
+      tech: ['Python', 'LLM Integration', 'FastAPI', 'MongoDB', 'Express.js', 'React.js', 'Node.js', 'Tailwind CSS', 'TypeScript'],
+      github: 'https://github.com/tlokeshkumar1/Smart-Helpdesk-with-Agentic',
+      demo: '#'
+    },
+    {
+      title: 'Email Summarizer and Replier Agent',
+      description: 'Created an AI agent that summarizes emails and replies using LLMs, enhancing email management efficiency.',
+      image: 'https://blog.thewdgagency.com/hubfs/Email%20Bot%20Clicks.jpg',
+      tech: ['Python', 'LLM Integration', 'FastAPI', 'Flask'],
+      github: 'https://github.com/tlokeshkumar1/Email-Replier-Agent',
+      demo: '#'
+    },
+    {
+      title: 'Lightweight AI Assistant with RAG',
+      description: 'Built a lightweight AI assistant using Retrieval-Augmented Generation (RAG) techniques to provide accurate and context-aware responses.',
+      image: 'https://substackcdn.com/image/fetch/$s_!p46P!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc361530-87ec-4414-b0ba-8bc81c3cbefd_1024x608.png',
+      tech: ['Python', 'RAG', 'Flask', 'Pinecone', 'Transformers', 'React.js'],
+      github: 'https://github.com/tlokeshkumar1/rag-assistant',
+      demo: '#'
+    },
+    {
+      title: 'AI Chatbot Companion',
+      description: 'Developed an AI chatbot companion that engages users in natural conversations, providing assistance and information on various topics.',
+      image: 'https://ddi-dev.com/uploads/media/news/0001/02/584668831a98d094bf9ceb0a533d0984149e044f.jpeg',
+      tech: ['Python', 'Flask', 'Transformers', 'React.js', 'LangChain'],
+      github: 'https://github.com/tlokeshkumar1/AI-Companion-Hosting/',
+      demo: 'https://ai-companion-5bet.onrender.com/'
+    },
+    {
       title: 'Smart Ticket Hub',
       description: 'Comprehensive ticketing platform for movies and metro services with secure transaction handling.',
       image: 'https://images.unsplash.com/photo-1536440136628-849c177e76a1?auto=format&fit=crop&q=80&w=800',
       tech: ['Python', 'Flask', 'HTML/CSS', 'MongoDB'],
       github: 'https://github.com/tlokeshkumar1/smart-ticket-hub',
       demo: 'https://smart-ticket-hub.onrender.com/'
+    },
+    {
+      title: 'AI-ML Based Phishing Detection System',
+      description: 'AI-ML based phishing detection system that analyzes email content to identify and flag potential phishing attempts, enhancing email security.',
+      image: 'https://obrienmedia.co.uk/wp-content/uploads/2020/03/phishing-with-ssl.jpg',
+      tech: ['Python', 'numpy', 'Pandas', 'Flask', 'TensorFlow'],
+      github: 'https://github.com/anilkumar1306/AI-Based-Phishing-Detection-System-main',
+      demo: '#'
     },
     {
       title: 'Movie Bookings',
